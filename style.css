@@ -5,6 +5,9 @@
 body{
     margin: 0px;
 }
+/* html{
+    scroll-behavior: smooth;
+} */
 /* body header */
 #body-header{
     height: 65vh;
